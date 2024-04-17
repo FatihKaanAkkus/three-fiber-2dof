@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "johnpapa.vscode-peacock",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "shan.code-settings-sync",
+    "gruntfuggly.todo-tree"
+  ]
+}

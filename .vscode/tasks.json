@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "(React) Start Development Server",
+      "type": "shell",
+      "command": "yarn start",
+      "problemMatcher": []
+    },
+    {
+      "label": "(React) Generate Production Build",
+      "type": "shell",
+      "command": "yarn build",
+      "problemMatcher": []
+    },
+    {
+      "label": "(React) Update Language Files",
+      "type": "shell",
+      "command": "i18next",
+      "problemMatcher": []
+    },
+  ]
+}
